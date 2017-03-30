@@ -1,4 +1,9 @@
 body {
     text-align: center;
-    color: blue;
+    color: black;
+    background-color:red
+}
+
+img {
+    text-align: center;
 }
